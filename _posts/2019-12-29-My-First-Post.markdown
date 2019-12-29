@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My first blog post!"
+date:   2019-12-28 18:07:12 -0600
 categories: health
 ---
 
@@ -12,7 +13,7 @@ Hi guys! Thanks so much for stopping over here at my first blog post.
 
 
 THIS IS AN IMAGE
-<img src="FriedEgg.png" />
+<img src="./FriedEgg.png" />
 
 
 <br>
