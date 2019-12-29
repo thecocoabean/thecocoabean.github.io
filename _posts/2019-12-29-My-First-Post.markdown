@@ -13,7 +13,7 @@ Hi guys! Thanks so much for stopping over here at my first blog post.
 
 
 THIS IS AN IMAGE
-<img src="../FriedEgg.png" />
+<img src="./FriedEgg.png" />
 
 
 <br>
