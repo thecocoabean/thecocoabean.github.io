@@ -18,3 +18,6 @@ THIS IS AN IMAGE
 
 <br>
 new lines can be added with this break line tag
+
+
+This is the end of the post
